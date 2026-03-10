@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Animação de exemplo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lzODFvcGkwY3pmamUwYW9lbXYwa2tjYXJxbHgzMDI5c25mbzJiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AORZNO5CdedzyWsSA7/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lzODFvcGkwY3pmamUwYW9lbXYwa2tjYXJxbHgzMDI5c25mbzJiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AORZNO5CdedzyWsSA7/giphy.gif" width="100%">
 
 <p align="left"> 
   Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
