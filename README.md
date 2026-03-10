@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="./myMDanimation.gif" alt="Fluxo de processamento" width="500">
+<img src="myMDanimation.gif" alt="Fluxo de processamento" width="500">
 
 <p align="left"> 
   Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
