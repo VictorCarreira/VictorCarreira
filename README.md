@@ -3,8 +3,7 @@ Hi, I'm Victor, most known as Carreira ✍️. I'm an earth scientist with a pas
 
 > “We find no vestige of a beginning - no prospect of an end.”
 
-
-                                          Sir. James Hutton
+Sir. James Hutton
 
 <p align="left"> 
   
