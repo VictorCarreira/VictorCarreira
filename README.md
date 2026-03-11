@@ -11,7 +11,7 @@ Sir. James Hutton
 </p>
 
 <p align="left">
-  🦄 Linguagens: Pythonic user just as FORTRAN, C++, HTML, MD, TeX, Jason
+  🦄 Linguagens: Pythonic user just as FORTRAN, C++, HTML, MD, TeX, SQL
 </p>
 
 
