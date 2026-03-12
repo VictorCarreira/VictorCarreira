@@ -11,7 +11,7 @@ Sir. James Hutton
 </p>
 
 <p align="left">
-  :desktop_computer: Pythonic user just as FORTRAN, C++, HTML, MD, TeX, SQL
+  :desktop_computer: Pythonic user just as FORTRAN, C++, SQL, HTML, TeX.
 </p>
 
 
